@@ -144,6 +144,8 @@ You can find more information at [developer.android.com](https://developer.andro
 
 If you already installed Visual Studio or Xamarin on your computers, you might need to upgrade the installation in order to follow the steps of this tutorial.
 
+Navigate to Tools -> Android -> Android SDK Manager to Obtain a specific Android Version
+
 ### Visual Studio on Windows
 
 In order to upgrade Visual Studio on Windows, start Visual Studio and follow the steps:
